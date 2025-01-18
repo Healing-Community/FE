@@ -26,8 +26,8 @@ jobs:
       # Step 3: Inject GitHub Secrets vào môi trường
       - name: Inject
         run: |
-          echo "NEXT_PUBLIC_API_URL=https://api.example.com" > .env
-          echo "DATABASE_URL=postgresql://user:password@localhost:5432/dbname" >> .env
+          echo "NEXT_PUBLIC_URL=http://localhost:3000" > .env
+          echo "NEXT_PUBLIC_API_ENDPOINT=http://35.240.242.49:8000" > .env
 
       # Step 4: Cài đặt dependencies
       - name: Install dependencies
