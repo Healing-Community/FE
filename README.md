@@ -1,6 +1,7 @@
 # Healing Community Project
 
-Introduction
+## Introduction
+
 This project is an online community platform designed to support users in their healing and personal growth journeys. By combining modern technology and a supportive community, we aim to create a safe and helpful space for everyone.
 
 ## Team
