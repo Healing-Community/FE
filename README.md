@@ -34,16 +34,16 @@ This project is an online community platform designed to support users in their 
 
 ## Roles in Healing Community
 
-Guest: Unregistered users.
-User: Registered users.
-Expert: Consultation experts.
-Moderator: Community moderators.
-Admin: System administrators.
+- Guest: Unregistered users.
+- User: Registered users.
+- Expert: Consultation experts.
+- Moderator: Community moderators.
+- Admin: System administrators.
 
 ## Roadmap
 
-Phase 1: Complete the core features of the platform.
-Phase 2: Develop community features and expand the user base.
-Phase 3: Integrate additional AI and machine learning features to enhance the user experience.
+- Phase 1: Complete the core features of the platform.
+- Phase 2: Develop community features and expand the user base.
+- Phase 3: Integrate additional AI and machine learning features to enhance the user experience.
 
 ## Goal: We aim to build a supportive community where people can find comfort, motivation, and companionship on their healing journey.
