@@ -4,11 +4,11 @@ This project is an online community platform designed to support users in their 
 
 ## Team
 
-- Le Hoang An: Frontend Developer, Leader
-- Ha Gia Minh: Frontend Developer
-- Nguyen Hung Nghia: Backend Developer
-- Nguyen Trong Nghia: Backend Developer
-- Tran Gia Thanh Dat: Backend Developer
+- Lê Hoàng An: Frontend Developer, Leader
+- Hà Gia Minh: Frontend Developer
+- Nguyễn Hùng Nghĩa: Backend Developer
+- Nguyễn Trọng Nghĩa: Backend Developer
+- Trần Gia Thành Đạt: Backend Developer
 
 ## Technology
 
