@@ -19,7 +19,7 @@ Welcome to the **Healing Community Project**, an online platform dedicated to su
 ## 💻 **Technology Stack**
 
 ### **Frontend**
-- **Frameworks**: Next.js
+- **Frameworks**: [Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 - **State Management**: TanStack Query, Zustand
 - **UI Components**: ShadCN
 - **Communication**: Websocket
