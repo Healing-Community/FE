@@ -121,5 +121,5 @@ Our mission is to foster a **compassionate and inclusive community** where indiv
 
 ### 🌟 Join Us Today!
 
-Start your journey to healing and growth with us. **[Sign up now](#)** or **[Explore the platform](#)** to see how we can support you in every step of your journey. Let’s heal, grow, and thrive together!
+Start your journey to healing and growth with us. **[Sign up now](#https://fe-production-1a01.up.railway.app/register)** or **[Explore the platform](#https://fe-production-1a01.up.railway.app/)** to see how we can support you in every step of your journey. Let’s heal, grow, and thrive together!
 
