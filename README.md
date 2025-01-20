@@ -1,36 +1,49 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Healing Community Project
+Introduction
+This project is an online community platform designed to support users in their healing and personal growth journeys. By combining modern technology and a supportive community, we aim to create a safe and helpful space for everyone.
 
-## Getting Started
+## Team
 
-First, run the development server:
+- Le Hoang An: Frontend Developer, Leader
+- Ha Gia Minh: Frontend Developer
+- Nguyen Hung Nghia: Backend Developer
+- Nguyen Trong Nghia: Backend Developer
+- Tran Gia Thanh Dat: Backend Developer
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Technology
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- Frontend: Next.js, TanStack Query, Zustand, ShadCN, Websocket
+- Backend: .NET, RabbitMQ, Python, Postgres, MongoDB, Redis, Websocket, Webhook
+- Deployment: Docker, K8s, GKE, Railway
+ 
+## Architecture 
+- Frontend: "Our frontend is powered by Next.js, making it smooth and easy for users to interact with the platform."
+- Backend: "The backend of our system is designed using Microservices and Clean Architecture (CQRS) to make it adaptable, scalable, and easy to manage."
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Key Features
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- Posting: Users can share their thoughts, feelings, and experiences. AI Gemini is used to filter content before posting.
+- Interactions: Users can interact with posts by reacting, commenting, sharing, and bookmarking. Additionally, users can follow each other and chat directly.
+- Consultation: Users can schedule consultations with experts and receive a link to join an online meeting via Jitsi Meet.
+- Payments: A flexible and secure payment system for consultation services.
+- Groups: Users can create and join groups based on their interests.
+- Interface: Flexible light/dark mode switching.
+- Reporting: Users can report inappropriate content.
+- Take the test: A system of tests to help users better understand themselves.
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+## Roles in Healing Community
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Guest: Unregistered users.
+User: Registered users.
+Expert: Consultation experts.
+Moderator: Community moderators.
+Admin: System administrators.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Roadmap
 
-## Deploy on Vercel
+Phase 1: Complete the core features of the platform.
+Phase 2: Develop community features and expand the user base.
+Phase 3: Integrate additional AI and machine learning features to enhance the user experience.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Goal: We aim to build a supportive community where people can find comfort, motivation, and companionship on their healing journey.
